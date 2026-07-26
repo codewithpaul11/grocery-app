@@ -73,3 +73,8 @@ grocery-app/
 ├── package.json
 └── README.md
 ```
+
+## Author
+
+**Chinmay Paul**
+[LinkedIn](https://www.linkedin.com/in/chinmay-paul-93ba06380?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/codewithpaul11)
